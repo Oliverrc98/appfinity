@@ -106,7 +106,7 @@
           <img src="${app.imagen}" alt="${app.nombre}">
           <h3>${app.nombre}</h3>
           <p>${app.descripcion}</p>
-          <button onclick="window.location.href='${app.urlDescarga}'">Descargar</button>
+          <button onclick="window.open('${app.urlDescarga}', '_blank')">Descargar</button>
         </div>
       `;
     });
