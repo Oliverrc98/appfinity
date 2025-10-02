@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Juego Aventura",
+    "descripcion": "Un juego de aventuras increíble.",
+    "categoria": "Juegos",
+    "imagen": "https://via.placeholder.com/100x100.png?text=Juego",
+    "urlDescarga": "https://mega.nz/file/XXXXXXXX#claveMega"
+  },
+  {
+    "nombre": "Editor Pro",
+    "descripcion": "Editor de imágenes profesional.",
+    "categoria": "Productividad",
+    "imagen": "https://via.placeholder.com/100x100.png?text=Editor",
+    "urlDescarga": "https://mega.nz/file/YYYYYYYY#claveMega"
+  },
+  {
+    "nombre": "Player Music",
+    "descripcion": "Reproduce tu música favorita.",
+    "categoria": "Multimedia",
+    "imagen": "https://via.placeholder.com/100x100.png?text=Music",
+    "urlDescarga": "https://mega.nz/file/ZZZZZZZZ#claveMega"
+  }
+]
